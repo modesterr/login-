@@ -1,0 +1,15 @@
+.part2 {
+  height: 100%;
+  width: 100%;
+  flex-basis: 50%;
+  background-image: url(/img/sesabkg.svg);
+  //background-image: url(/img/hilton-2.jpg);
+  background-size: cover;
+  background-position: center;
+  //object-fit: cover;
+  //background-repeat: no-repeat;
+  top: -0.7rem;
+  // grid-row: 1/-1;
+  // grid-column: 2/3;
+  // border: 3px solid green;
+}
